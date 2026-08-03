@@ -135,41 +135,44 @@ L(3) — "direct domain experience; clear customer understanding; relevant netwo
 
 ---
 
-## 3. Critic — two live contradictions
+## 3. Critic — contradictions resolved
 
-Both would be caught by a Critic pass, and both are in the current submission.
+Both contradictions recorded in the first pass of this revision were corrected in a fourth submission covering Module 7/8/9, Module 11, the Regulatory Pathway Brief and the Team Synopsis. **The score does not change; the liabilities do.**
 
-### 3.1 The venture asserts and refutes vessel classification in the same data room
+### 3.1 Vessel classification — RESOLVED
 
-**Module 7/8/9 (Buyer Validation Findings):**
-> *"The whitewater outfitter requires the unit be legally classified as a vessel rather than a structure, specifically to bypass permanent-building bans… This classification question is therefore a central product and regulatory requirement, not a detail."*
->
-> *"A mobile, non-permanent, **vessel-classified** platform is not competing on price against other floating restrooms."*
+Module 7/8/9 previously stated vessel classification as "a central product and regulatory requirement" while the Regulatory Pathway Brief correctly established it is unavailable under s.327.02, F.S.
 
-**Regulatory Pathway Brief:**
-> *"Vessel classification — Section 327.02(14), F.S., defines a floating structure to expressly exclude it from the definition of vessel… A hull, a trailer, and a registration do not change the analysis."*
+**Corrected in the right direction — the buyer findings were fixed, not the brief:**
 
-The regulatory brief is right; I verified the statute. But Module 7/8/9 still states the opposite as a product requirement, and Module 7/8/9 is the document that carries the competitive positioning. **A reviewer reading both will conclude the venture does not know which is true.**
+> *"Both were describing the permanent-structure trap rather than a specific legal classification. Our subsequent regulatory work established that vessel classification is not available to a moored restroom under Florida law, and that the pier-secured pathway addresses the same concern more effectively."*
 
-The fix is not to soften the regulatory brief. It is to update Module 7/8/9: the buyer's underlying need — avoiding the permanent-structure trap — is real and is *better* served by the pier-secured letter-of-consent pathway than by a vessel claim that does not exist in Florida law. The finding survives; only the mechanism changes.
+The universal-requirements table now reads "Avoiding permanent-structure classification… the mechanism is pier-securing, not vessel registration," and the open regulatory question was updated from *"vessel or structure"* to *"whether a private facility's pier meets the public access test."* The buyer insight survives intact; only the mechanism changed, and the document says so explicitly rather than quietly rewriting history.
 
-### 3.2 A corrected regulatory error was reintroduced
+### 3.2 The 33 CFR 159 error — RESOLVED (one residual)
 
-The July review verified that under 33 CFR 159, **no US vessel of any size is required to install a toilet**; MSD rules attach only once one is installed, and portable toilets do not count as installed. The "under 26 feet" framing was identified as wrong.
+The Team Synopsis now states it correctly:
 
-It currently appears in three documents, including **two that were written or rewritten after that correction** — Module 11 (new) and the Team Synopsis (rewritten):
+> *"Federal rules under 33 CFR Part 159 do not require any vessel, of any length, to install a toilet. They apply only once a toilet has been installed, and a portable toilet does not count as installed."*
 
-> *"about 95 percent of them are under 26 feet, the size range where boats are generally not required to carry a toilet at all"*
+Module 11 corrected to "small recreational boats," and the citation was added to the synopsis sources. Remaining references to "under 26 feet" are now purely descriptive of fleet composition, which is factually correct per NMMA.
 
-Reintroducing a corrected error into new documents reads worse than never having fixed it. The accurate version is also stronger: it widens the population of vessels with no facility rather than confining it to a length class.
+**One residual.** Module 13 Exercise 1 & 2 still carries: *"our current value proposition rests on a real, current regulatory gap, boats under 26 feet generally aren't required to carry a head."* The whole "Regulatory Change: A Threat With Asymmetric Resilience" section is built on that premise and needs rewriting — the corrected reading actually strengthens it, since there is no length threshold that could tighten.
 
-### 3.3 Minor
+### 3.3 CVA framing — RESOLVED, and turned to advantage
 
-- **CVA framing.** The rewritten synopsis again leads with the Clean Vessel Act as a tailwind. CVA funds pumpout infrastructure for tanked vessels. The stronger and now better-evidenced argument is that qualified sites already spend $3,000+/month on sanitation — committed budget, displaceable.
-- **Module 11 is stale on its own premise.** It says "the platform's authorization pathway is a genuine unknown until FDEP responds" and names a lease determination as something that "would change our minds." FDEP has responded. Update it or it reads as written before the brief it sits beside.
-- **LTV ratio.** Deck notes say 9.6:1; $135,960 ÷ ($12,100 + $2,580) = **9.26:1**. Recompute or restate.
+The synopsis no longer claims CVA as a tailwind. It now states the objection against itself:
+
+> *"We note, however, that the obvious funding source does not reach our customer… it funds pumpout infrastructure for vessels that already carry holding tanks. Our entire premise is boats without tanks. That funding is adjacent to us, not aligned with us, and we do not count it as a tailwind."*
+
+This pre-empts the July review's sharpest unanswered objection by conceding it in full. Module 11's stale premise was also updated — the authorization pathway is no longer "a genuine unknown," and the condition that would change the team's mind is now the private-pier determination, which is the actual live risk. The Regulatory Brief added the 90-day statutory response requirement for s.120.565 petitions.
+
+### 3.4 Still open
+
+- **LTV ratio.** Deck notes say 9.6:1; $135,960 ÷ ($12,100 + $2,580) = **9.26:1**.
 - **Rule citation.** The brief cites Rule 62-6.0101 for 110% secondary containment; the 18-21.003 definition references 64E-6.0101. Florida moved the onsite sewage program from DOH to DEP in 2021 and both cites circulate. Confirm which is current before quoting it to an agency.
-- **CAC excludes sales labour.** $2,580 covers marketing and travel only. Founder and Operations Lead selling time is not in it. Volunteering an honest figure is worth more than having it found.
+- **CAC excludes sales labour.** $2,580 covers marketing and travel only. Volunteering an honest figure is worth more than having it found.
+- **Module 13's regulatory-threat section**, per §3.2.
 
 ### Verified this revision
 
@@ -183,11 +186,13 @@ Rule 18-21.003 restroom-facilities definition including portable units on public
 
 | Action | Dimension | Points | Effort |
 |---|---|---|---|
-| Run 5–8 buyer conversations with the record retained | Urgency 3→5 | **+2** | 2 weeks, ~$0 |
-| Reconcile the vessel-classification contradiction; fix the 26-foot claim; drop CVA as headline | Timing 2→3, credibility | **+1** | 2 days |
-| File the declaratory-statement petition on private piers | Timing / Cost of Sales | +1 | 90-day clock |
+| Run 5–8 buyer conversations with the record retained | Urgency 3→5 **and** Timing 2→3 | **+3** | 2 weeks, ~$0 |
 | Sign Mario's advisor agreement; name a fabrication partner and the insurance broker | FMF 3→4 | **+1** | 3–4 weeks |
 | Commit to the onboard line with sizing and sequencing | Market Size 1→3 | **+2** | 1 week |
+| File the declaratory-statement petition on private piers | Cost of Sales / Timing | +1 | 90-day clock |
+| Rewrite Module 13's regulatory-threat section on the corrected premise | Credibility | — | 1 hour |
+
+**Note the coupling.** Market Timing is held at 2 only because the evidence that would justify 3 — qualified sites already spending $3,000+/month, twelve of fifteen having attempted permanent builds — sits in the contested buyer document. Documenting those conversations therefore moves two dimensions, not one. It is worth **+3**, not the +2 previously stated, and it remains the single highest-value action available.
 
 **Realistic ceiling remains ~38** under the instructor's tables. Market Size caps at 3 (L is $1B–$10B) and Competition at 3 (L is 2–5 competitors) regardless of execution.
 
