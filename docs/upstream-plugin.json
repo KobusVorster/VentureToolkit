@@ -1,0 +1,20 @@
+{
+  "name": "vc2-essentials",
+  "version": "2.2.0",
+  "description": "Free venture analysis tools from Venture Capital 2.0 — EPAC-enhanced 10-dimension opportunity scorecard with Critic validation, Safer instrument term sheet generation, Safer scenario simulation, and Monte Carlo fund modeling.",
+  "author": {
+    "name": "Next Wave Partners"
+  },
+  "keywords": [
+    "venture capital",
+    "scorecard",
+    "safer",
+    "monte carlo",
+    "simulation",
+    "term sheet",
+    "startup",
+    "portfolio",
+    "epac",
+    "free"
+  ]
+}
