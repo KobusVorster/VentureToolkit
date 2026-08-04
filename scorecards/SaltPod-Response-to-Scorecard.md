@@ -1,33 +1,35 @@
-# Salt Pod — Response to the July 30 Scorecard
+# Salt Pod: Response to the July 30 Scorecard
 
 **From:** The Ember Island Players
-**Re:** VC 2.0 10-Dimension Scorecard, July 30, 2026 — 21.5/80
+**Re:** VC 2.0 10-Dimension Scorecard, July 30 2026, 21.5 out of 80
 **Date:** August 2026
 
-> **Draft for the team to review and edit before sending.** Written in your voice. Every claim below must be true when you submit it — see the flagged item in §3.
+> Draft for the team to review and edit before sending. Written in your voice.
 
 ---
 
 ## Why this document exists
 
-The July 30 scorecard evaluated eleven documents. Several of its findings identified real errors in our work, and we have corrected them. Others were answered by documents that did not exist when the scorecard was run.
+The July 30 scorecard evaluated eleven documents. Several of its findings identified real errors in our work and we have corrected them. Others have since been answered by documents that did not exist when the review was run.
 
-Rather than resubmit a larger data room and leave the reviewer to work out what changed, this note maps each finding to where it is now addressed, states plainly what remains open, and lists two errors of our own that the scorecard caught and we are correcting.
+The data room now holds twenty-one documents. Rather than resubmit a larger set and leave the reviewer to work out what changed, this note maps each finding to where it is addressed, states what remains open, and records two errors of our own that the review caught.
 
-**Document set at review vs. now:**
+**Documents added since the review:**
 
-| July 30 (11 docs) | Added since |
+| Added | What it supplies |
 |---|---|
-| Team Synopsis | Module 3 — Founder-Market Fit and Team Capability |
-| Module 12 Product Roadmap | Module 7/8/9 — Buyer Validation Findings |
-| Module 13 Exercise 1 & 2 | Module 9 — Buyer Validation Interview Guide |
-| Module 14 Exercises V2 | Module 10 — Market Sizing (TAM/SAM/SOM) |
-| Module 15 Exercise | Module 18 — Scorecard Review + Breakdown |
-| Module 16 First Funnel Brief 2 | Module 19 — Pro Forma **v3** |
-| Module 17 IP Strategy Brief | Module 20 — Pitch Deck |
-| Competitors SWOT | Pricing Models **V3** |
-| Pricing Models V1 / V2 | Module 16 First Funnel Brief **3** |
-| Team 1 Pro Forma | |
+| Module 3, Founder-Market Fit and Team Capability | Founder roles, capability map, advisory, disclosed conflict |
+| Module 7/8/9, Buyer Validation Findings | Analysis of fifteen buyer conversations |
+| Module 7/8/9, Buyer Conversation Evidence Matrix | The primary evidence per site, laid out for checking |
+| Module 9, Buyer Validation Interview Guide | The instrument and its scoring threshold |
+| Module 10, Market Sizing | TAM, SAM and SOM across both product lines |
+| Module 11, Venture Thesis | The two-line company thesis and sequencing |
+| Module 12, Onboard Product Specification | BOM, unit economics, pilot design |
+| Module 18, Scorecard Review and Breakdown | Our response to the July findings |
+| Module 19, Pro Forma v3 | Rebuilt financial model |
+| Module 20, Pitch Deck | Investor deck |
+| Salt Pod Regulatory Pathway Brief | Written FDEP guidance on authorization pathways |
+| Pricing Models V3, First Funnel Brief 3 | Superseded versions of documents you reviewed |
 
 ---
 
@@ -35,200 +37,185 @@ Rather than resubmit a larger data room and leave the reviewer to work out what 
 
 ### 1.1 Unit economics were computed on parts-only cost
 
-**Finding:** Modules 12, 13 and both pricing decks used $3,505–$6,125 build cost and reported ~5-month payback. Module 14 — our own work — added $8,000–$12,800 of direct labor. True COGS $11,505–$18,925. Park Maintains payback recomputed at 16–27 months, not 5.
+**Finding:** Modules 12 and 13 and both pricing decks used a $3,505 to $6,125 build cost and reported roughly five month payback. Module 14, our own work, added $8,000 to $12,800 of direct labour. Recomputed, Park Maintains payback was 16 to 27 months, not 5.
 
 **Accepted in full. This was our most consequential error.** Fully loaded cost now runs through every document:
 
-| Phase | Materials | Labor | Fully loaded |
+| Phase | Materials | Labour | Fully loaded |
 |---|---|---|---|
-| Prototype (160 hrs @ $65) | $4,815 | $10,400 | **$15,215** |
-| Small batch (120 hrs @ $65) | $4,300 | $7,800 | **$12,100** |
-| Mass production (90 hrs) | $4,000 | $5,850 | **$9,850** |
+| Prototype, 160 hrs at $65 | $4,815 | $10,400 | $15,215 |
+| Small batch, 120 hrs at $65 | $4,300 | $7,800 | $12,100 |
+| Mass production, 90 hrs | $4,000 | $5,850 | $9,850 |
 
-Module 12 now states these "supersede all earlier parts-only cost estimates." Pricing Models V3 opens by noting the earlier basis "understated the true cost of putting a unit in the water by roughly three times."
+Module 12 states these supersede all earlier parts-only estimates. Pricing Models V3 records that the earlier basis understated the true cost by roughly three times.
 
-We also declined to model an implausible learning curve: a 60-hour small-batch assumption would imply a 62% reduction by the second unit, so we used 120 hours (~25%) and labelled it unvalidated.
-
-**Where:** Module 12 §Fully Loaded COGS · Module 14 · Pricing Models V3 · Module 13 SWOT (now $12,100–$15,215)
+We also declined to model an indefensible learning curve. A 60 hour small batch assumption would imply a 62 percent reduction by the second unit, so we used 120 hours and labelled it unvalidated.
 
 ### 1.2 The funnel required more opportunities than the market contained
 
-**Finding:** ~260 opportunities needed against 175 total Florida state parks, including landlocked sites.
+**Finding:** Roughly 260 opportunities needed against 175 total Florida state parks, including landlocked sites.
 
-**Accepted.** Two changes. The ICP widened from state parks alone to all spend-qualified Florida water-access sites, and leading with Self Maintains raised revenue per unit from $11,400 to $27,180, cutting units required from 26 to 11.
+**Accepted.** The ICP is now national and tiered by regulatory pathway, and leading with Self Maintains raised revenue per unit from $11,400 to $27,180.
 
-| | Was | Now |
+| | July | Now |
 |---|---|---|
-| Qualified sites | 60 water-access parks | **252** across four segments |
-| Units required | ~26 | **~11** |
-| Opportunities required | ~260 | **~157** |
-| Market touch rate | Impossible | **62%** |
-
-We state in the brief that 62% is high for a first-time product with no reference customer, and that it is the primary execution risk rather than a comfortable margin. The pro forma, which deploys 15 units, carries the higher 85% figure and names sales capacity — not demand — as the binding constraint.
-
-**Where:** Module 16 First Funnel Brief 3 · Module 10 §5
+| Qualified base | 60 water-access parks | 6,104 US sites, 712 Tier 1 Southeast for Phase 1 |
+| Units required | ~26 | ~11 |
+| Opportunities required | ~260 | ~158 |
+| Market touch rate | Not achievable | 22 percent |
 
 ### 1.3 The pro forma modelled a different company
 
-**Finding:** No COGS line, no builders on payroll, no facility, no insurance or permitting, placeholder revenue rows, $1M raise, Year-1 revenue contradicting the stated target.
+**Finding:** No COGS line, no builders on payroll, no facility, no insurance or permitting, placeholder revenue rows, $1M raise.
 
-**Accepted in full.** Pro Forma v3 is rebuilt:
+**Accepted in full.** Pro Forma v3 carries fleet capex with units capitalised and depreciated over seven years, fabrication and commissioning subcontractors on the personnel sheet, servicing at $300 per unit per month, FDEP permitting at $75, marine liability at $65 quoted, real revenue rows tied to a deployment schedule, and non-zero marketing from month 6.
 
-- Units capitalised as fleet assets at fully loaded cost, depreciated straight-line over 7 years ($144/unit/month)
-- Fabrication Technician and Marine Systems Contractor on the personnel sheet
-- Self Maintains servicing $300/unit/month, FDEP permitting $75/unit/month, marine liability $85/unit/month — all scaling with deployed units
-- Real revenue rows tied to a unit deployment schedule; no placeholders
-- Marketing non-zero from month 6, including grant application support and FRPA conference
-- **Raise reduced from $1,000,000 to $290,000**
+**The raise is now $290,000, not $1,000,000.** Peak cumulative cash need is roughly $221,000. Per-unit contribution after all fleet operating costs is $2,266 on Self Maintains and $616 on Park Maintains. Monthly breakeven falls at month 20 on a fifteen unit fleet.
 
-Per-unit contribution after all fleet operating costs: Self Maintains **$2,246/month**, Park Maintains **$596**. Monthly breakeven at month 20 on a 15-unit fleet. Peak cumulative cash need ~$221,000.
-
-The facility lease is deliberately excluded and disclosed as such — fabrication runs from a rented outdoor yard. Taking the lease pushes breakeven from month 20 to 22 and raises peak cash by ~$50,000.
-
-**Where:** Module 19 Pro Forma v3, all sheets + Summary notes
+The facility lease is deliberately excluded and disclosed as such. Taking it moves breakeven from month 20 to month 22 and raises peak cash by roughly $50,000.
 
 ### 1.4 No TAM appeared anywhere
 
 **Finding:** No market sizing in any of the eleven documents.
 
-**Accepted.** Module 10 now builds bottom-up from site counts and a spend-based qualification criterion, with a full sensitivity register:
+**Accepted.** Module 10 builds bottom-up from site counts and a spend based qualification criterion, with a sensitivity register. Platform line TAM is $249M ARR, SAM $80M, SOM $3.08M by year five.
 
-- **TAM $249M** ARR — 6,104 qualified US sites × 1.5 units × $27,180 blended
-- **SAM $80M** — Southeast and Gulf, trailerable from a Florida base
-- **SOM $3.08M** ARR — 113 Florida units by year five
-
-The qualification criterion — current sanitation spend at or above $3,000/month — replaced the flat 35% rate used previously, and is screenable before a sales call.
-
-We state in the document that at $249M this is "a specialty market rather than a venture-scale one on its own," and that this is structural rather than an execution problem. See §4 below.
-
-**Where:** Module 10
+We agree the platform category alone is a specialty market. See section 4.
 
 ### 1.5 Self Maintains was positioned backwards
 
 **Finding:** "The Self Maintains tier carries roughly 3x the ACV for materially the same sales effort. It is currently positioned as the secondary option. That looks backwards."
 
-**Accepted, and this drove several downstream changes.** Self Maintains now leads commercially, with market sizing modelled on a 70/30 mix weighted toward it. Consequences: revenue per unit rose from $11,400 to $27,180, units required for the revenue target fell from 26 to 11, and the breakeven fleet fell from roughly 30 units to 15.
+**Accepted, and it drove several downstream changes.** Self Maintains now leads, with sizing modelled on a 70/30 mix weighted toward it. Units required for the revenue target fell from 26 to 11, and the breakeven fleet fell from roughly 30 units to 15.
 
-We are also explicit that Park Maintains has negative Year-1 unit contribution at the low end of its band and should not lead a first conversation.
-
-**Where:** Pricing Models V3 · Module 10 §1 · Module 16 · Module 19 notes
+We are also explicit that Park Maintains has negative Year 1 unit contribution at the low end of its band and should not lead a first conversation.
 
 ### 1.6 Self Maintains servicing cost was unpriced
 
-**Finding:** Flagged in every pricing document; the higher-ACV tier could not be evaluated without it.
+**Accepted.** Modelled at $300 per unit per month covering two site visits, waste pump-out and disposal, consumables and allocated travel. It is carried in the pro forma and inside the 80 percent contribution figure. We label it the largest remaining unvalidated operating input and will replace it with a real figure after the first unit runs for a month.
 
-**Accepted.** Modelled at **$300/unit/month** — two site visits, waste pump-out and disposal, consumables, allocated travel across a route. It is carried in the pro forma and in the 79% contribution figure.
+### 1.7 The SWOT still cited a $1,240 to $1,540 build cost
 
-We label it the largest single unvalidated operating input in the venture and commit to replacing it with a real figure after the first unit runs for one month.
-
-**Where:** Pricing Models V3 §Servicing Cost Basis · Module 19 Assumptions
-
-### 1.7 The SWOT still cited $1,240–$1,540 build cost
-
-**Finding:** ~12x below true COGS.
-
-**Accepted.** Corrected to $12,100–$15,215 fully loaded throughout the SWOT.
-
-**Where:** Module 13 Competitors SWOT Analysis
+**Accepted.** Corrected to $12,100 to $15,215 fully loaded throughout.
 
 ### 1.8 No named domain advisor
 
-**Finding:** Pattern Rule 3 triggered. "Requires a domain operator with marine sanitation, B2G procurement, or FL environmental permitting experience."
+**Finding:** Pattern Rule 3 triggered. A domain operator with marine sanitation, B2G procurement or Florida environmental permitting experience is required.
 
-**Accepted and addressed.** **Mario, a serving state park manager, has formally agreed to advise on an unpaid basis.** Public agency procurement was the single function no founder covered and it sits directly on our go-to-market path.
+**Accepted and addressed.** Mario, a serving state park manager, has formally agreed to advise on an unpaid basis. Public agency procurement was the one function no founder covered.
 
-We also disclose a related conflict rather than let it surface later: Jason is engaged to a manager of a waterfront state park. That is informal access, not customer validation, and if that specific park became a prospect we would recuse it or disclose the relationship in writing to the awarding authority before submitting anything.
+We also disclose a related conflict rather than let it surface later. Jason is engaged to a manager of a waterfront state park. That is informal access, not customer validation, and if that park became a prospect we would recuse it or disclose the relationship in writing to the awarding authority before submitting anything.
 
-Two gaps remain open and we name them: marine fabrication at production volume, and marine insurance structuring. Neither requires a founder-level hire; both are vendor relationships.
-
-**Where:** Module 3 §4, §6
+Two gaps remain and we name them: marine fabrication at production volume, and marine insurance structuring. Neither needs a founder level hire. Both are vendor relationships, and the insurance one is now closed by a quote.
 
 ---
 
-## 2. Findings answered by documents not in the July review
+## 2. Answered by work completed since the review
 
-### 2.1 Founder-market fit was scored against evidence we never wrote down
+### 2.1 Permitting: the largest unknown is now mapped
 
-The scorecard was right that the team's connection to the problem read as "users, not industry insiders." That was a documentation failure on our part. Module 3 exists to correct it.
+The review identified Florida sovereignty submerged lands authorization as required, absent from all our models, and the one risk outside our control. It warned that a lease requirement would extend our timeline substantially.
 
-| Founder | Domain position | Direct experience |
+**We approached FDEP before committing to fabrication and hold four written responses from the Division of State Lands.** Three deployment pathways are confirmed:
+
+| Pathway | Authorization | Timeline |
 |---|---|---|
-| Willem | Commercial boat tour operator; 10 yrs industrial operations | Operates the buyer persona we sell to |
-| Jason | Marine robotics engineer, autonomous surface vessels, weekly on-water testing | Multi-hour operations with a working crew |
-| Jeremy | Seaplane owner-operator | Moors on open water, family aboard |
-| Brandon | Chemical engineer, environmental PhD candidate | Owns a vessel with no head |
+| Secured alongside a government pier | Letter of consent, staff level | 4 to 6 weeks |
+| Non-sovereignty waterbodies | None under Chapter 18-21 | No submerged lands process |
+| Landward siting | None under Chapter 18-21 | Local review only |
+| Anchored on sovereignty bottom | Lease, Board of Trustees | 12 to 24 months, not a launch path |
 
-**Note on the Team Synopsis.** The earlier synopsis led with Jason's rocket propulsion background. His current work is marine robotics; the propulsion background is prior. The synopsis was a team introduction, not a capability audit, and Module 3 supersedes it. We are withdrawing the synopsis from the data room to avoid two inconsistent descriptions circulating.
+Rule 18-21.005(1)(c) item 11 covers restroom facilities on public piers, and the matching definition at 18-21.003 expressly includes portable restrooms. A unit anchored to the bottom creates new preemption and forces the lease path. A unit secured alongside a pier rides an authorization the pier already holds. Same product, different attachment, roughly seventeen months of difference.
 
-**Where:** Module 3
+We also ruled out four configurations, including vessel classification. Section 327.02, F.S. expressly excludes floating structures from the definition of vessel, and incidental movement on water does not change that. We had previously assumed vessel classification was available and it is not.
+
+Design requirements follow directly: alongside pier attachment rather than standoff, secondary containment at 110 percent of waste capacity, septage disposal permitting, and a benthic survey inside the June to September growing season.
+
+One question remains open, whether a private facility's pier meets the public access test. We are pursuing a declaratory statement under Section 120.565, F.S., which binds the agency on the facts presented and carries a 90 day response requirement.
 
 ### 2.2 Buyer validation
 
-Addressed in §3 below, honestly.
+Fifteen buyer discovery conversations were conducted across seven site categories during July. The Buyer Validation Findings sets out the analysis and the Buyer Conversation Evidence Matrix sets out the primary evidence per site, so the analysis can be checked against it.
 
-### 2.3 Market sizing
+| | |
+|---|---|
+| Sites that had already sought a solution | 15 of 15 |
+| Prior attempts carrying priced engineering quotes, $150,000 to $1.8M | 12 |
+| Sites that have already lost money, recurring | 12 of 15 |
+| Budget holders who can authorise at our price without escalation | 10 of 15 |
+| Sites above $3,000 per month spend giving unconditional yes | 7 of 7 |
 
-Module 10, covered at §1.4.
+The blocking causes on the abandoned construction projects are consistent: coastal permitting, Army Corps jurisdiction, FEMA flood zone elevation, seagrass protection, historic preservation, and drinking water contamination risk. These are not sites that tolerate a workaround without thinking about it. They obtained engineering quotes and were stopped by something other than willingness.
 
----
+**We record the limitations rather than let them be discovered.** Original notes and message threads were lost during a device migration before the analysis was written, so the record is reconstructed from a summary made at the time. Dollar figures should be read as approximate ranges recalled from the conversation. No statement is a verbatim quotation. Participants are identified by segment and role because they did not consent to being named in an investor document.
 
-## 3. Still open — stated plainly
+What survives those limitations is the pattern rather than the precision. The spend threshold, the operating versus capital procurement split, the universal failure of permanent build attempts, and the sensor funding argument each appeared independently across multiple unconnected conversations in different segments.
 
-### 3.1 Buyer validation record
+**We do not claim this clears your Gate 1 as written.** That gate asks for written evidence from at least three sites. Obtaining a written price indication from three of the seven that accepted verbally is our next validation step and we treat it as the highest value item outstanding.
 
-> **⚠️ TEAM: this section must be made true before sending.** The scorecard's Gate 1 requires *"written evidence of budget authority, budget line, and price tolerance from at least 3."* Our current findings document states that the original notes were lost in a device migration and that figures are recalled approximations — which does not meet that bar as written.
->
-> **Do not submit a claim this section cannot support.** Either (a) run five to eight fresh conversations in the next two weeks with the record retained — date, site, role, current spend, budget line, price reaction — and rewrite this section around them, or (b) state honestly that the record is reconstructed and that documented conversations are in progress.
->
-> Option (a) is two weeks of calls and clears the highest-leverage pattern rule in the framework. Option (b) is survivable. Overstating is not.
+### 2.3 Founder-market fit was scored against evidence we never wrote down
 
-### 3.2 FDEP permitting determination
+The review was right that our connection to the problem read as users rather than industry insiders. That was a documentation failure and Module 3 corrects it.
 
-Still open, and we accept it is the largest unknown outside our control. The scorecard correctly identified that sovereignty submerged lands authorization is required and appeared nowhere in our cost or schedule models.
+All four founders operate on water regularly in four different contexts. Willem recently began guiding for a commercial boat tour operator, which places him inside one of our target segments, and brings ten years of industrial operations across ERP, inventory, logistics and procurement. Jason is a rocket engine engineer by profession who builds autonomous surface vessels as an ongoing side project with regular on-water field testing, covering the sensing and station keeping Version 2 depends on. Brandon is a chemical engineer and environmental PhD candidate who owns a boat with no head. Jeremy is a seaplane owner who lands and moors on open water, usually with family aboard.
 
-It now appears in the pro forma at $75/unit/month, modelled pending determination. We have not yet obtained a written FDEP position on whether a moored floating restroom at a park ramp falls under consent by rule, letter of consent, or lease — and that distinction drives our timeline.
+We describe each role as it actually is, including where experience is recent or part time. Measured against a standard rubric we place this team at solid relevant experience with real industry proximity, not at deep domain mastery with a proven track record.
 
-Our buyer work makes this sharper, not softer: the vessel-versus-structure classification question is now a stated product requirement rather than an implementation detail. One site requires vessel classification specifically to bypass permanent-building bans; another warns that structure classification in a navigable waterway means five-year approval.
+### 2.4 Market sizing and the second product line
 
-**Action:** written determination requested from FDEP.
-
-### 3.3 Insurance
-
-Modelled at $85/unit/month on top of a $300/month base policy. Not quoted. We agree this is a phone call rather than a project and it is outstanding.
-
-### 3.4 The 160-hour build
-
-Never tested against a timed build. It drives roughly 70% of true COGS and remains our most sensitive unvalidated input alongside servicing cost.
+Covered in section 4.
 
 ---
 
-## 4. Market size — we agree, and it is structural
+## 3. Still open
 
-The scorecard scored Market Size at 1 and called it the binding constraint. Our own bottom-up work reaches a compatible conclusion: **$249M TAM**, which we describe in Module 10 as "a specialty market rather than a venture-scale one on its own... a structural property of the category [that] execution does not change."
+**Written price commitment.** No site has signed anything. Verbal price acceptance in a discovery conversation is a signal, not a sale, and we do not present it as one. Written indications from three sites is the next step.
 
-We also agree with the closing observation that the pivot moved us away from our own best evidence. Our validated pain is boater pain; the platform sells to a facilities manager who does not feel it.
+**No prototype.** No unit has been built and none of the twenty-three capability thresholds in Module 15 has been demonstrated.
 
-Module 10 identifies three expansion paths. Path B — the onboard sanitation category, independently sized at **$1.2B (2023) rising to $2.7B (2030)** — is described in our own document as "the only path that credibly clears $1B in addressable market," and it is the same direction the scorecard's closing reframe pointed toward.
+**Private pier determination.** Our largest and highest spending segment depends on it. The declaratory petition is drafting and requires a named candidate marina.
 
-**We are bringing that decision forward** rather than deferring it to the end of the Florida pilot. A costed, sized, sequenced decision memo will accompany the next submission.
+**The 160 hour build.** Never tested against a timed build. It drives roughly 70 percent of true COGS.
+
+**Servicing cost.** Modelled at $300 per unit per month, not observed.
+
+**Onboard prototype.** The bill of materials is costed from component pricing and contract packing rates, not from a built and tested pack. The 3 percent attach rate is modelled and the pilot exists to test it.
 
 ---
 
-## 5. Two errors of our own that the scorecard caught
+## 4. Market size: we agree it was the binding constraint, and we have acted
 
-**5.1 The under-26-foot regulatory claim was wrong.** Our documents stated that boats under 26 feet are generally not required to carry a toilet. The correct position under 33 CFR 159 is that **no US vessel of any size is required to install a toilet**; MSD requirements attach only once one is installed, and portable toilets do not count as installed. We are correcting this everywhere. The accurate version is in fact stronger for us — it widens rather than narrows the population of vessels with no facility.
+The review scored Market Size at 1 and called it structural. Our own bottom-up work reached a compatible figure at $249M for the platform category.
 
-**5.2 The Clean Vessel Act framing does not survive scrutiny.** CVA funds pumpout infrastructure for vessels that already carry holding tanks. Our entire premise is vessels without them. We are removing CVA as a headline tailwind.
+**We have committed to a second product line rather than treating it as an option.** The onboard marine sanitation category was valued at roughly $1.2B in 2023 and is projected to reach $2.7B by 2030. Combined addressable market is approximately $1.45B today.
 
-What replaces it is better evidence anyway: qualified sites already spend $3,000+/month on sanitation. That budget is committed, recurring, and displaceable — a materially stronger argument than a grant program that does not fit our product.
+This is a commitment, not a narrative:
+
+- It appears as Phase 4 in the product roadmap and as Line 2 in the market sizing, described in both as committed rather than optional.
+- Module 12 specifies the product to the same level of detail as the platform: a nine component bill of materials at $1.19 per unit, vending at $3.50 for 66 percent margin, six-pack at $18.00 for 60 percent.
+- The Phase 2 pilot is carried in the pro forma from month 9, with $8,500 of tooling booked in month 8. It sells 3,775 units for $13,214 of revenue at 66 percent margin and returns $221 net across sixteen months.
+- We model it at a 3 percent attach rate, below the 4 percent used illustratively elsewhere, and we present the pilot as roughly break-even rather than as a revenue driver. Its purpose is to produce a measured attach rate.
+
+The review's closing section suggested the consumable direction would score better across several dimensions while keeping the urgency we had actually earned. We agree, with one qualification. A consumable business is a distribution business, and distribution is the function this team is least equipped to execute cold. Entering that category from a deployed platform network means arriving with usage data, brand recognition among actual users, and a proven attach rate. That is why the platform leads and the onboard line follows rather than the reverse.
+
+The two lines also resolve the structural flaw the review identified. The platform is bought by a site operator who holds a budget but does not feel the problem. The onboard product is bought by the boater who does. Each line reaches one half of that split.
+
+---
+
+## 5. Two errors of our own that the review caught
+
+**5.1 The under 26 foot regulatory claim was wrong.** Our documents stated that boats under 26 feet are generally not required to carry a toilet. Under 33 CFR Part 159 no vessel of any length is required to install a toilet. The rules attach only once one has been installed, and a portable toilet does not count as installed. Corrected across every document. The accurate version is stronger for us, since it widens rather than narrows the population of vessels with no facility, and it means there is no length threshold that could be tightened against us.
+
+**5.2 The Clean Vessel Act framing does not survive scrutiny.** CVA funds pumpout infrastructure for vessels that already carry holding tanks. Our premise is vessels without them. That funding is adjacent to us, not aligned with us, and we no longer count it as a tailwind. What replaces it is better evidence anyway. Qualified sites already spend $3,000 or more per month on sanitation, and that budget is committed, recurring and displaceable.
 
 ---
 
 ## 6. What we are not claiming
 
-- No unit has been built. None of the 23 capability thresholds in Module 15 has been demonstrated.
-- No agreement, LOI or pilot commitment exists with any site.
-- No FDEP determination, no bound insurance quote, no timed build.
-- Servicing cost, permitting cost, insurance cost, small-batch labor hours and close rate all remain modelled rather than observed, and are labelled as such in the assumption registers.
+- No unit built, no capability threshold demonstrated.
+- No signed agreement, letter of intent or written price commitment from any site.
+- No onboard prototype.
+- No freedom to operate review and no patent filing.
+- Servicing cost, the 160 hour build, the 7 percent close rate, the 3 percent attach rate and the private pier determination all remain modelled or open, and are labelled as such in the assumption registers.
 
-We accept that a No-Go on capital is the correct answer at this stage. The purpose of this response is to establish which of the July findings are closed, which remain open, and where the evidence now sits — not to argue the recommendation.
+We accept that a No-Go on capital is the correct answer at this stage. The purpose of this response is to establish which findings are closed, which remain open, and where the evidence now sits.
