@@ -2,10 +2,10 @@
 
 **Venture:** Salt Pod — trailer-deployable floating restroom platform for shallow-draft water-access sites
 **Team:** The Ember Island Players (Willem, Brandon, Jeremy, Jason)
-**Date:** August 2026 — **Revision E**
+**Date:** August 2026 — **Revision F**
 **Prepared by:** VC 2.0 Scorecard Agent (EPAC framework)
 
-**History:** Instructor (Peter), Jul 30, 11 docs — **21.5** · Rev A, 16 docs — 31 · Rev B, 17 docs — 32 · Rev C, 19 docs — 29.5 · Rev D, 20 docs — 32.5 · **Rev E, 20 docs — 34.5**
+**History:** Instructor (Peter), Jul 30, 11 docs — **21.5** · Rev A, 16 docs — 31 · Rev B, 17 docs — 32 · Rev C, 19 docs — 29.5 · Rev D, 20 docs — 32.5 · Rev E, 20 docs — 34.5 · **Rev F, 21 docs — 34.5, defended**
 
 > Rev A and Rev B were scored on the command-file band table. Rev C onward use the instructor's stricter reference table. On a like-for-like basis the venture has improved at every revision.
 
@@ -22,7 +22,7 @@ The repo contains incompatible specifications, and the instructor uses the stric
 | Resources M(5) | — | **$250K–$1M** |
 | Resources L(3) | — | **$1M–$3M** |
 
-**Rev E totals:** instructor's table **34.5** · command file 38.5.
+**Rev F totals:** instructor's table **34.5** · command file 38.5.
 
 The gap narrowed because the venture committed to a second product line, moving combined addressable market from $249M to ~$1.45B and clearing the instructor's L threshold. All commentary below uses the instructor's table.
 
@@ -33,7 +33,7 @@ The gap narrowed because the venture committed to a second product line, moving 
 | # | Dimension | T-Shirt | Score | Δ vs Jul 30 | Confidence | Basis |
 |---|---|---|---|---|---|---|
 | 1 | Founder-Market Fit | L | **3** | +1 | Medium-High | Written FDEP relationship, seated advisor, honestly restated roles |
-| 2 | Market Size | L | **3** | +2 | **Low-Medium** | Two committed lines, ~$1.45B combined; onboard line unbuilt |
+| 2 | Market Size | L | **3** | +2 | **Medium-High** | Two committed lines, ~$1.45B combined; onboard line now specified, costed and modelled |
 | 3 | Customer Urgency | XL | **5** | +3 | Medium | 15/15 sought solutions, 12 with priced quotes; record reconstructed |
 | 4 | Competition | L | **3** | — | High | Four entrenched players; structurally locked |
 | 5 | Novelty | L | **3** | +1 | Medium | Regulatory pathway is a design-level moat |
@@ -46,13 +46,13 @@ The gap narrowed because the venture committed to a second product line, moving 
 
 **Interpretation band:** Below 40. **Recommendation: No-Go on capital, Structured Support** — but see §4, because one of the two triggered pattern rules has now cleared.
 
-**Live range: 30.5 – 34.5.** Two cells are contestable — Market Size (3 or 1) and Customer Urgency (5 or 3). Both are argued below.
+**Live range: 32.5 – 34.5.** Market Size was the second contestable cell and is now defended (§2). Customer Urgency is the only one remaining.
 
 ---
 
-## 2. What moved in Rev E
+## 2. What moved
 
-### Market Size 1 → 3 · the largest single move, and the most contestable
+### Market Size 1 → 3 · moved in Rev E, defended in Rev F
 
 The venture has committed to a second product line rather than holding it as an option. The change runs through three documents:
 
@@ -68,17 +68,28 @@ The instructor's rubric warns that *"market expansion narratives are red flags,"
 2. **It is costed at the revenue line.** Attach rates modelled at 2/4/6% against ~8,000 visitors per unit per season; at a 15-unit fleet and 4%, ~$57,600 per season from platform-channel sales. The document is explicit that this is *"not the business case for the onboard line. It is the proof point that funds the retail launch."*
 3. **It answers the venture's central structural flaw.** The July review's defining criticism was that the person who feels the pain is not the person who pays. The two-line structure is a *structural* answer: *"Each line reaches one half of the split, and together they cover it."* That is a better response than any amount of platform-side argument.
 
-**Why confidence is Low-Medium, and why an examiner could hold this at 1:**
+**Rev E recorded three gaps that would have let an examiner hold this at 1. All three are now closed.**
 
-- **No onboard product exists** — no specification, no BOM, no COGS. The platform line has all three.
-- **It is absent from the pro forma**, despite Phase 2 (months 9–20) claiming a pilot inside the 24-month model window. If the line is committed, the pilot belongs in the financials.
-- **The deck carries it in two lines only** — a tagline and a "LINE 1 OF 2" label. No slide, no combined TAM, no attach-rate economics.
-- **Distribution is the team's self-declared weakest function.** Module 3's capability map and Module 11 both concede it. The answer given — that the platform supplies distribution — is coherent but unproven.
-- The 8,000-visitors-per-season figure carries no stated basis.
+| Rev E gap | Rev F |
+|---|---|
+| No product spec, BOM or COGS | **Closed.** Onboard Product Specification: nine-component BOM at **$1.19/unit**, verified to the cent. Vending $3.50 (66% margin), six-pack $18.00 (60%). |
+| Absent from the pro forma despite a Phase 2 pilot in-window | **Closed.** Carried on the Revenue tab (units, revenue), Overhead tab (COGS, $8,500 tooling in month 8) and Assumptions tab. |
+| Deck carried it in two lines with no slide | **Closed.** Dedicated "Two Lines, One Network" slide with both lines, market sizes, revenue shapes and the four-phase sequence. |
 
-**This is the single most contestable score in the card.** Held at 1, the total is 32.5.
+**Every figure reconciles.** I recomputed the pilot from the pro forma's own monthly rows: 3,775 units, $13,213.51 revenue, $4,492.60 COGS, $8,720.92 gross profit at 66.0%, less $8,500 tooling = **$220.92 net**. The specification states 3,775 / $13,214 / $4,493 / $8,721 / $221. Consistent to rounding across two independently authored documents.
 
-### Previously in Rev D
+The modelling is also deliberately conservative: attach rate set at **3%**, below the 4% used illustratively in the Venture Thesis, with seasonality (1,333 visitors/unit/month in season, 400 off), and the pilot presented as roughly break-even rather than as a revenue driver — *"Its purpose is to produce a measured attach rate, not revenue."* The scale scenarios in §6 are labelled *"illustrative scale points rather than forecasts."*
+
+**What still limits confidence to Medium-High rather than High**, per the team's own §7:
+
+- No physical prototype; the BOM is costed from component pricing and contract packing rates, not a built pack.
+- The 3% attach rate is modelled and unvalidated — the pilot exists to test it.
+- Distribution remains the self-declared weakest function; a retail launch beyond the platform network needs a channel partner they do not have.
+- *"The category has resisted adoption for a century. We believe the blocker has been distribution and trust rather than product design, but that belief is a thesis, not a finding."*
+
+That last line is the team's, not mine. **Held at 1 the total would be 32.5, but sustaining that challenge is now considerably harder than it was.**
+
+### Earlier movements
 
 ### Customer Urgency 3 → 5 · the contested cell, now resolved in the venture's favour
 
@@ -174,18 +185,15 @@ One remains. Founder-Market Fit at 3 is a single point below threshold, and the 
 
 ## 5. Where the remaining points are
 
-Both remaining priorities are now defensive — they secure contested cells rather than adding new points.
-
 | Action | Effect | Effort |
 |---|---|---|
-| Onboard product spec with a BOM and COGS; add the Phase 2 pilot to the pro forma; give it a deck slide | **Secures Market Size at 3** (worth 2) | 1–2 weeks |
-| Written price indication from 3 of the 7 sites that accepted verbally | **Secures Customer Urgency at 5** (worth 2) | 2 weeks |
-| Sign Mario's advisor agreement; name a fabrication partner and the insurance broker | FMF 3→4, **clears the last pattern rule** | +1 | 3–4 weeks |
-| File the declaratory-statement petition on private piers | Cost of Sales / Timing | +1 | 90-day clock |
+| Written price indication from 3 of the 7 sites that accepted verbally | **Secures Customer Urgency at 5** — the last 2 points of exposure | 2 weeks |
+| Sign Mario's advisor agreement; name a fabrication partner and the insurance broker | FMF 3→4, **clears the last pattern rule** | 3–4 weeks |
+| File the declaratory-statement petition on private piers | Cost of Sales / Timing, +1 | 90-day clock |
 
-**Ceiling remains ~38** under the instructor's tables. With Market Size now at 3, Competition (locked at 3 by "2–5 major competitors") is the only remaining structural cap.
+**Ceiling remains ~38** under the instructor's tables. Competition, locked at 3 by "2–5 major competitors," is the only remaining structural cap.
 
-The two defensive items are worth four points of exposure between them and cost about three weeks. They matter more than anything additive: the difference between a well-defended 34.5 and a challenged 30.5 is larger than any remaining upside.
+One defensive item remains, and it is the same one that has topped this list since the first scorecard: a written record from real buyers. The Evidence Matrix names it too — *"a written price indication from three of the seven sites that accepted our range verbally… the single highest-value validation step remaining."* Two weeks, no cash, and it is the difference between a 34.5 that holds under examination and a 32.5 that does not.
 
 ---
 
@@ -197,11 +205,11 @@ The July review singled out intellectual honesty as the asset worth optioning. F
 
 Rev E adds the structural change the previous four revisions could not. The venture stopped being a floating restroom company with an idea about devices and became a marine sanitation company with two lines, which lifts it out of the niche band and — more importantly than the two points — answers the criticism that has sat at the centre of every scorecard since July. The buyer-user split was never fixable from the platform side. Reaching the boater directly is the only structural answer, and the team has now committed to it in the roadmap rather than the appendix.
 
-What remains is the gap between commitment and evidence, and it is narrower than it was but real.
+Rev F then closed the gap between that commitment and its evidence. The onboard line now has a nine-component bill of materials at $1.19 a unit, stated margins, a pilot carried in the pro forma from month 9 with tooling booked in month 8, and a deck slide. The pilot is modelled at a 3% attach rate — below the team's own illustrative figure — and returns $221 across sixteen months, which the specification presents as roughly break-even rather than dressing it up. Two independently authored documents reconcile to the dollar.
 
-The onboard line has a thesis, a sequence and an attach-rate model, and no product. No specification, no bill of materials, no COGS, and no presence in the financial model despite a pilot scheduled inside the pro forma's own window. A reviewer applying *"score TAM that exists today"* strictly could hold Market Size at 1, and the argument would not be unreasonable.
+What remains is a single gap, and it is the same one that has been at the top of every version of this scorecard.
 
-And nobody has paid. The Evidence Matrix is precise about this: strong evidence of an active, expensive, previously-attempted problem sitting with a reachable budget holder, and no evidence of a completed transaction. Those are different things, and the venture does not conflate them.
+Nobody has paid. The Evidence Matrix is precise about this: strong evidence of an active, expensive, previously-attempted problem sitting with a reachable budget holder, and no evidence of a completed transaction. Those are different things, and the venture does not conflate them. The onboard line's honest assessment says the same in its own register — *"that belief is a thesis, not a finding."*
 
 **No-Go on capital. Structured Support** — one of the two blocking pattern rules cleared, the second within reach, and the market-size constraint that capped this venture from the beginning now addressed in principle if not yet in product.
 
