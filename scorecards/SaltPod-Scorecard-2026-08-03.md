@@ -113,7 +113,7 @@ The price-acceptance break is clean enough to screen on: 100% yes above $3,000/m
 
 **The caveat, which the document makes itself.** The record remains reconstructed rather than contemporaneous, and the matrix states plainly: *"Not established: that any site will pay. No agreement, letter of intent, or written price commitment exists. Verbal price acceptance in a discovery conversation is a signal, not a sale."* It then names what would strengthen it, including a contemporaneous record captured during the call.
 
-A document that separates what its evidence supports from what it does not, and volunteers its own weakest point, is more credible than one that does not — not less. **But if the instructor applies his Gate 1 wording literally (written evidence from at least three), this cell returns 3 and the total is 30.5.** That is the live range.
+A document that separates what its evidence supports from what it does not, and volunteers its own weakest point, is more credible than one that does not — not less. **But if the instructor applies his Gate 1 wording literally (written evidence from at least three), this cell returns 3 and the total is 32.5.** That is now the only live exposure in the card.
 
 ### Market Timing 2 → 3
 
