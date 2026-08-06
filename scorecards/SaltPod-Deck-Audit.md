@@ -1,8 +1,8 @@
-# Salt Pod Pitch Deck: Audit Against the Current Data Room
+# Salt Pod Pitch Deck: Audit and Fixes Applied
 
 **Deck:** Module 20, eleven slides
 **Audited against:** the 21 document data room, August 2026
-**Status:** one slide carries superseded numbers, one slide is missing, four small fixes
+**Status:** APPLIED. All findings below have been fixed in the deck. Deck is now twelve slides.
 
 ---
 
