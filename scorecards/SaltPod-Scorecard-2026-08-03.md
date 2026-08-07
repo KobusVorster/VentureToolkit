@@ -2,10 +2,10 @@
 
 **Venture:** Salt Pod, a trailer-deployable floating restroom platform for shallow-draft water-access sites
 **Team:** The Ember Island Players (Willem, Brandon, Jeremy, Jason)
-**Date:** August 2026. **Revision F**
+**Date:** August 2026. **Revision G**
 **Prepared by:** VC 2.0 Scorecard Agent (EPAC framework)
 
-**History:** Instructor (Peter), Jul 30, 11 docs: **21.5** · Rev A, 16 docs: 31 · Rev B, 17 docs: 32 · Rev C, 19 docs: 29.5 · Rev D, 20 docs: 32.5 · Rev E, 20 docs: 34.5 · **Rev F, 21 docs: 34.5, defended**
+**History:** Instructor (Peter), Jul 30, 11 docs: **21.5** · Rev A, 16 docs: 31 · Rev B, 17 docs: 32 · Rev C, 19 docs: 29.5 · Rev D, 20 docs: 32.5 · Rev E, 20 docs: 34.5 · Rev F, 21 docs: 34.5 · **Rev G, 21 docs: 34.5**
 
 > Rev A and Rev B were scored on the command-file band table. Rev C onward use the instructor's stricter reference table. On a like-for-like basis the venture has improved at every revision.
 
@@ -22,7 +22,7 @@ The repo contains incompatible specifications, and the instructor uses the stric
 | Resources M(5) | not stated | **$250K to $1M** |
 | Resources L(3) | not stated | **$1M to $3M** |
 
-**Rev F totals:** instructor's table **34.5** · command file 38.5.
+**Rev G totals:** instructor's table **34.5** · command file 38.5.
 
 The gap narrowed because the venture committed to a second product line, moving combined addressable market from $249M to ~$1.45B and clearing the instructor's L threshold. All commentary below uses the instructor's table.
 
@@ -40,17 +40,52 @@ The gap narrowed because the venture committed to a second product line, moving 
 | 6 | Resources Required | M | **5** | +2 | High | $290K raise, $221K peak cash |
 | 7 | Time to Market | L | **3** | +1 | Medium | Permitting closed; 4 to 6 week fast pathway |
 | 8 | Cost of Sales | L | **3** | +1 | Medium | ACV $34,200, 22% touch rate, 10/15 buyers can self-authorise |
-| 9 | Profitability | avg | **3.5** | +1 | High | 80% contribution; breakeven month 20 |
+| 9 | Profitability | avg | **3.5** | +1 | High | 80% contribution; breakeven month 19 |
 | 10 | Market Timing | L | **3** | +1 | Medium | Clear problem awareness, committed spend; CVA overclaim withdrawn |
 | | **Total** | | **34.5** | **+13** | | |
 
 **Interpretation band:** Below 40. **Recommendation: No-Go on capital, Structured Support**: but see §4, because one of the two triggered pattern rules has now cleared.
 
-**Live range: 32.5 to 34.5.** Market Size was the second contestable cell and is now defended (§2). Customer Urgency is the only one remaining.
+**Live range: 32.5 to 34.5.** Customer Urgency remains the one contestable cell. Market Size is defended by three documents but contradicted by a fourth, which is now the most urgent fix in the data room (§2).
 
 ---
 
 ## 2. What moved
+
+### Rev G: the deck is now ahead of the documents
+
+A fifth revision updated the deck's financials and edited the Team Synopsis. The score does not change, but three things are worth recording.
+
+**The deck's new numbers are right, and my previous figures were stale.** The deck now shows breakeven at **month 19 on 12 units** with **$497,160 ARR**, replacing month 20, 15 units and $489,600. I recomputed from the pro forma's own rows and the deck is correct:
+
+- Gross profit turns positive at month 19 (+$1,050.27), having been negative at month 18 (-$1,758.10)
+- Month 19 fleet is 11 Self Maintains plus 1 Park Maintains, so **12 units**
+- $489,600 platform ARR plus $7,560 onboard ARR ($630 per month at month 24) = **$497,160**
+
+Revisions C through F carried month 20 and $489,600, which were computed before the onboard pilot entered the model. Corrected throughout this revision.
+
+**Two contradictions were introduced in the Team Synopsis.**
+
+*First, and this one costs points.* The synopsis now says: *"The onboard product line remains a live option for a later phase."* Three other documents say the opposite. Market Sizing: *"Both are committed lines in our roadmap, not options."* Product Roadmap: *"a committed part of our roadmap rather than an option held open."* The Venture Thesis is built entirely on the two-line structure.
+
+Market Size scores 3 rather than 1 **because** the onboard line is committed. The synopsis is the front door document, and it uses precisely the language the other documents removed. An examiner who reads it first has grounds to score Market Size at 1, which is a two point swing. This is a one sentence fix and it is the most urgent item in the data room.
+
+*Second, a regulatory regression.* The synopsis describes the platform as *"moving out onto the water for use."* The Regulatory Pathway Brief states that the four to six week letter of consent route requires the unit to be secured alongside a pier, and warns explicitly that standing off *"creates a pocket of water between the pier and the unit that is itself preempted area outside the pier's authorization, which returns us to the lease queue."* Describing the unit as moving out onto the water for use describes the configuration that forces the twelve to twenty-four month path, and edges back toward the vessel framing the team abandoned.
+
+The previous wording, *"anchors in shallow water,"* had the same problem for the same reason. Neither version matches the regulatory finding.
+
+**Three documents carry stale breakeven figures**, now that the deck has moved:
+
+| Document | Says | Should say |
+|---|---|---|
+| Module 11, Venture Thesis | "Company breakeven at 15 units, month 20" (twice) | 12 units, month 19 |
+| Module 10, Market Sizing | "models 15 units and $489,600 ARR at month 24" | $497,160 combined |
+| Module 19, Pro Forma notes | "cuts the breakeven fleet size from roughly 30 units to 15" | 12 |
+| Module 19, Pro Forma notes | "Module 16 sizes its own funnel... a 62% touch rate" | 22% |
+
+The fleet does reach 15 units by month 24, so that figure is not wrong everywhere. It is wrong specifically where it is described as the breakeven fleet.
+
+---
 
 ### Market Size 1 → 3 · moved in Rev E, defended in Rev F
 
